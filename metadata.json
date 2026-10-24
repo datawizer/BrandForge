@@ -1,0 +1,6 @@
+{
+  "name": "BrandForge Product Mockup Studio",
+  "description": "Upload your logo and see it placed realistically on mugs, t-shirts, hoodies, and tote bags with AI generation and editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
